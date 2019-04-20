@@ -29,6 +29,16 @@ order: 2
 * [Установка на выделенном сервере Linux по SSH (вручную, сложно)](/ru/manual_install.html)
 
 ## Установка GameAP Daemon
+adadadadada
+d
+ada
+dad
+a
+d
+ad
+a
+d
+ad
 
 * Автоматическая установка и настройка
 * Ручная установка и настройка
